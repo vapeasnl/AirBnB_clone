@@ -18,4 +18,3 @@ $ ./console.py
 $ ./console.py
 $ ./console.py
 $ ./console.py
-$ ./console.py
