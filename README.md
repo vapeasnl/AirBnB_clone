@@ -16,4 +16,3 @@ To start the command interpreter, simply execute the `console.py` script.
 $ ./console.py
 $ ./console.py
 $ ./console.py
-$ ./console.py
