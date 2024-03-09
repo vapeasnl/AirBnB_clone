@@ -14,3 +14,22 @@ To start the command interpreter, simply execute the `console.py` script.
 
 ```bash
 $ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
+$ ./console.py
