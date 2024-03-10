@@ -7,7 +7,7 @@ from models.base_model import BaseModel
 
 class City(BaseModel):
     """
-    Represents an instance of a city
+    Represents an instance of a city.
     """
 
     state_id = ""

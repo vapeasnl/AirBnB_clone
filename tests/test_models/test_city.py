@@ -13,7 +13,7 @@ class TestCity(TestCase):
     """
 
     def test_new_instance(self):
-        """ Test the creation of City instance """
+        """Test the creation of City instance """
         obj = City()
         self.assertEqual(obj.state_id, "")
         self.assertEqual(obj.name, "")

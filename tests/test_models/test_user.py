@@ -14,7 +14,7 @@ class TestUser(TestCase):
     """
 
     def test_new_instance(self):
-        """ Test the creation of User instance """
+        """ Test the creation of User instance"""
         obj = User()
         self.assertEqual(obj.email, "")
         self.assertEqual(obj.password, "")

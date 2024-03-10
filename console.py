@@ -15,7 +15,7 @@ from models.engine.file_storage import FileStorage
 
 
 class HBNBCommand(cmd.Cmd):
-    """ Define the command-line interpreter """
+    """ Define the command line interpreter """
 
     prompt = "(hbnb) "
     valid_classes = ["BaseModel", "User", "Place",

@@ -11,7 +11,7 @@ from models import storage
 class BaseModel:
     """
     Defines the BaseModel class. The parent class
-    with common members for other classes.
+    with common members for other classes
     """
 
     def __init__(self, *args, **kwargs):

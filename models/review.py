@@ -7,7 +7,7 @@ from models.base_model import BaseModel
 
 class Review(BaseModel):
     """
-    Represents an instance of a review
+    Represents an instance of a review.
     """
 
     place_id = ""

@@ -7,7 +7,7 @@ from models.base_model import BaseModel
 
 class Amenity(BaseModel):
     """
-    Represents an instance of a amenity
+    Represents an instance of a amenity.
     """
 
     name = ""

@@ -14,7 +14,7 @@ class TestFileStorage(TestCase):
     """
 
     def test_reload(self):
-        """ Test the reload method """
+        """Test the reload method """
         obj = FileStorage()
         objects = obj.all()
         self.assertTrue(len(objects) > 0)

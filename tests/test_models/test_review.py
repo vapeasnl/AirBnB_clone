@@ -13,7 +13,7 @@ class TestReview(TestCase):
     """
 
     def test_new_instance(self):
-        """ Test the creation of Review instance """
+        """ Test the creation of Review instance"""
         obj = Review()
         self.assertEqual(obj.place_id, "")
         self.assertEqual(obj.user_id, "")

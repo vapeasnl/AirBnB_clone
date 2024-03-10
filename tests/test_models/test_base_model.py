@@ -14,7 +14,7 @@ class TestBaseModel(TestCase):
     """
 
     def test_save(self):
-        """ Test the save method """
+        """Test the save method """
         obj = BaseModel()
         updated_at = datetime.now()
         first_update = obj.updated_at

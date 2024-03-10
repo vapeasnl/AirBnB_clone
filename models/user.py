@@ -7,7 +7,7 @@ from models.base_model import BaseModel
 
 class User(BaseModel):
     """
-    Represents an instance of a user
+    Represents an instance of a user.
     """
 
     email = ""

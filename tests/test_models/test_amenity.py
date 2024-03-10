@@ -13,6 +13,6 @@ class TestUser(TestCase):
     """
 
     def test_new_instance(self):
-        """ Test the creation of Amenity instance """
+        """Test the creation of Amenity instance """
         obj = Amenity()
         self.assertEqual(obj.name, "")

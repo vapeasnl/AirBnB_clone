@@ -13,6 +13,6 @@ class TestState(TestCase):
     """
 
     def test_new_instance(self):
-        """ Test the creation of State instance """
+        """ Test the creation of State instance"""
         obj = State()
         self.assertEqual(obj.name, "")

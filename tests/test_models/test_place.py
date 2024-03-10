@@ -13,7 +13,7 @@ class TestPlace(TestCase):
     """
 
     def test_new_instance(self):
-        """ Test the creation of Place instance """
+        """Test the creation of Place instance """
         obj = Place()
         self.assertEqual(obj.city_id, "")
         self.assertEqual(obj.user_id, "")
