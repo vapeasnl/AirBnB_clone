@@ -15,7 +15,7 @@ from models.engine.file_storage import FileStorage
 
 
 class HBNBCommand(cmd.Cmd):
-    """ Define the command line interpreter """
+    """ Define the command-line interpreter """
 
     prompt = "(hbnb) "
     valid_classes = ["BaseModel", "User", "Place",
@@ -416,7 +416,7 @@ class HBNBCommand(cmd.Cmd):
     def print_instance_count(class_name):
         """
         Prints the total number of instances for
-        a class
+        a classs
 
         Parameters
         class_name : string
